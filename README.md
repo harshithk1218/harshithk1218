@@ -1,3 +1,7 @@
 # harshithk1218-
-![snake gif](https://github.com/harshithk1218/harshithk1218/blob/output/github-contribution-grid-snake.gif)
+<p align = "center">
+    <a href = "" target = "_blank">
+        <img src="https://raw.githubusercontent.com/Rishi-KC-BMS/Rishi-KC-BMS/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt = "Snake Progression Bar" width = "1300px">
+    </a>
+</p>
 
